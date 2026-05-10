@@ -1,0 +1,15 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.env
+.env.*
+aqd-ai/node_modules
+aqd-ai/.tanstack
+aqd-ai/dist
+aqd-ai/.wrangler
+*.ipynb_checkpoints
+Full_Working_Code.ipynb
+LOVABLE_FLASK_INTEGRATION_GUIDE.md
+Pdfs
